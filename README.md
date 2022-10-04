@@ -14,6 +14,11 @@
 - The standard deviation for temperatures recorded in June was 3.26 while the standard deviation in December was 3.76. There is more variability within the temperature in December than in June.
 - The coldest recorded temperature in December was 56 degrees, while the coldest day in June was 64. On the other hand, the warmest day in June was 85 and  83 in December.
 
+- See differences in statistical summary below:
+![image1](https://user-images.githubusercontent.com/102992388/193935260-a883930c-ae63-42b1-baf0-c6b1d06a86ff.png)
+
+![image2](https://user-images.githubusercontent.com/102992388/193935280-8c0e6d1d-b4c1-4e00-b42b-55056d3ae04c.png)
+
 ## Summary
 
 ### Results
